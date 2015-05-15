@@ -1,4 +1,3 @@
-The best module!
+# The best module!
 
-&copy;
-MIT
+&copy; MIT
