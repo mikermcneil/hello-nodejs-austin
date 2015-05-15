@@ -1,6 +1,6 @@
 {
   "name": "hello-nodejs-austin",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A sample package.",
   "main": "app.js",
   "scripts": {
